@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PostConfluence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PostConfluence_jar</output-path>
+    <root id="archive" name="PostConfluence.jar">
+      <element id="module-output" name="PostConfluence" />
+    </root>
+  </artifact>
+</component>

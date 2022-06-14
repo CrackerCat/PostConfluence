@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="godzilla">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/godzilla.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
