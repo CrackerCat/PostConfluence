@@ -22,6 +22,14 @@
    1. 在所有的文章搜索指定关键字
 
 
+## 如何使用
+
+在https://github.com/BeichenDream/PostConfluence/releases 下载哥斯拉插件Jar包
+
+然后打开哥斯拉 点击配置->点击插件配置->点击添加并选择你下载的Jar包
+
+![](images/addPlugin.png)
+
 ## 部分功能演示
 
 ### MakeToken
